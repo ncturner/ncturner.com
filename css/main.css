@@ -1,0 +1,45 @@
+/*-----BASE-----*/
+
+html {
+	margin: 0 auto;
+}
+.main {
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+h1, h2, h3, h4, p, a {
+	color: rgba(255,255,255,.8);
+	font-family: 'Proxima Nova', 'Helvetica Neue', sans-serif;
+}
+h3 {
+	margin: 0 0 10px 0;
+	letter-spacing: .06em;
+	font-weight: 400;
+	margin: 15px;
+}
+p {
+	letter-spacing: .03em;
+	font-weight: 200;
+	margin: 15px;
+}
+.nav img {
+	height: 2em;
+	opacity: .8;
+}
+.nav li {
+	padding: 1em;
+}
+.logo {
+	margin: 100px auto 20px;
+ 	width: 10em;
+ 	opacity: .8;
+}
+.projects ul li {
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
+}
