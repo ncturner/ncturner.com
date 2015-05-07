@@ -7,7 +7,7 @@ html {
 	background-image: url("../images/background.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 100%;
+	min-height: 100%;
 	width: 100%;
 	position: relative;
 }
@@ -26,6 +26,7 @@ p {
 	font-weight: 200;
 	margin: 15px;
 }
+
 .nav img {
 	height: 2em;
 	opacity: .8;
@@ -34,7 +35,7 @@ p {
 	padding: 1em;
 }
 .logo {
-	margin: 100px auto 20px;
+	margin: 160px auto 20px;
  	width: 10em;
  	opacity: .8;
 }
