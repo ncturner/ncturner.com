@@ -42,5 +42,40 @@ p {
 .projects ul li {
 	margin: 0;
 	padding: 0;
-	max-width: 100%;
+	background: #000;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s ;
+	transition: all ease 0.5s ;
 }
+ul li:hover {
+	background: #ccc;
+	-webkit-transition: all ease 0.7s;
+	-moz-transition: all ease 0.7s;
+	-o-transition: all ease 0.7s;
+	-ms-transition: all ease 0.7s ;
+	transition: all ease 0.5s ;
+
+}
+footer {
+	height: 150px;
+}
+footer h4 {
+	color: #000;
+	text-align: center;
+	margin: 50px;
+}
+footer button {
+	color: #fff;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin-left: 25px;
+	margin-top: 20px;
+	width: 180px;
+	
+}
+
+
+
+
