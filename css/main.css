@@ -76,7 +76,9 @@ footer button {
 	margin-top: 10px;
 	width: 180px;
 	border-radius: .15em;
-	
+}
+footer button:hover {
+	background-color: #131417;
 }
 
 
