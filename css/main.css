@@ -59,14 +59,23 @@ p {
 
 }
 footer {
-	height: 150px;
+	height: 120px;
 }
 footer h4 {
 	color: #32343c;
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 80px;
 }
-footer button {
+footer a {
+	color: #32343c;
+}
+footer a:hover {
+	color: #e75a58;
+}
+footer img {
+	height: 8em;
+}
+/*footer button {
 	color: #fff;
 	background-color: #32343c;
 	font-size: 18px;
@@ -79,7 +88,7 @@ footer button {
 }
 footer button:hover {
 	background-color: #131417;
-}
+}*/
 
 
 
