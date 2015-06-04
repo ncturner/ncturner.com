@@ -19,7 +19,7 @@ h3 {
 p {
 	letter-spacing: .03em;
 	font-weight: 200;
-	margin: 15px;
+	margin: 15px 0 0 15px;
 }
 
 /*-----INDEX-----*/
@@ -107,7 +107,34 @@ p {
 }
 .services {
 	color: #32343c;
+	margin: 0;
 }
+.csl {
+	background: #efedd7;
+}
+.process {
+	margin: 30px 0 0 0;
+}
+.process h3,p{
+	color: #32343c;
+}
+.process h4{
+	color: #32343c;
+	font-size: 18px;
+	margin: 30px 0 0 15px;
+}
+.break {
+	width: 5%;
+	height: 2px;
+	background-color: #32343c;
+	opacity: .3;
+	margin: 30px auto 0 auto;
+
+}
+.project-illustration {
+	margin: 20px auto;
+}
+
 
 /*-----FOOTER-----*/
 
