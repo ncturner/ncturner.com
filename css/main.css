@@ -114,11 +114,20 @@ p {
 }
 .process {
 	margin: 30px 0 0 0;
+	font-size: 36px;
 }
-.process h3,p{
+.process h3{
+	color: #32343c;
+}
+.process p{
 	color: #32343c;
 }
 .process h4{
+	color: #32343c;
+	font-size: 24px;
+	margin: 30px 0 0 15px;
+}
+.process h5{
 	color: #32343c;
 	font-size: 18px;
 	margin: 30px 0 0 15px;
@@ -133,6 +142,48 @@ p {
 }
 .project-illustration {
 	margin: 20px auto;
+}
+ul li{
+	list-style-type: none;
+	display: inline-flex;
+	margin: 0;
+	padding: 0;
+}
+.color-1 {
+	border-radius: 5%;
+	width: 150px;
+	height: 150px;
+	background-color: #3d535a;
+}
+.color-2 {
+	border-radius: 5%;
+	width: 150px;
+	height: 150px;
+	background-color: #359579;
+}
+.color-3 {
+	border-radius: 5%;
+	width: 150px;
+	height: 150px;
+	background-color: #d8ae45;
+}
+.color-4 {
+	border-radius: 5%;
+	width: 150px;
+	height: 150px;
+	background-color: #9c6d74;
+}
+.color-5 {
+	border-radius: 5%;
+	width: 150px;
+	height: 150px;
+	background-color: #f17646;
+}
+.color-6 {
+	border-radius: 5%;
+	width: 150px;
+	height: 150px;
+	background-color: #70a697;
 }
 
 
