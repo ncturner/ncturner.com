@@ -3,14 +3,11 @@
 html {
 	margin: 0 auto;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 /*-----TYPE-----*/
 
-=======
-=======
->>>>>>> master
+
 .main {
 	background-image: url("../images/background.jpg");
 	background-repeat: no-repeat;
@@ -20,10 +17,11 @@ html {
 	width: 100%;
 	position: relative;
 }
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> master
+
+
+/*-----TYPE-----*/
+
+gh-pages
 h1, h2, h3, h4, p, a {
 	color: rgba(255,255,255,.8);
 	font-family: 'Proxima Nova', 'Helvetica Neue', sans-serif;
@@ -37,8 +35,6 @@ h3 {
 p {
 	letter-spacing: .03em;
 	font-weight: 200;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	margin: 15px 15px 0 15px;
 }
 
@@ -55,12 +51,6 @@ p {
 }
 .nav {
 	margin: 20px 0 0 0;
-=======
-	margin: 15px;
->>>>>>> master
-=======
-	margin: 15px;
->>>>>>> master
 }
 .nav img {
 	height: 2em;
@@ -74,8 +64,7 @@ p {
  	width: 10em;
  	opacity: .8;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .header-logo {
 	margin: 10px;
  	width: 2.25em;
@@ -254,17 +243,9 @@ footer button:hover {
 
 
 
-
-=======
-=======
->>>>>>> master
 .projects ul li {
 	margin: 0;
 	padding: 0;
 	max-width: 100%;
-<<<<<<< HEAD
 }
->>>>>>> master
-=======
-}
->>>>>>> master
+
