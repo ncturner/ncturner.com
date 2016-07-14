@@ -4,10 +4,13 @@ html {
 	margin: 0 auto;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 /*-----TYPE-----*/
 
 =======
+=======
+>>>>>>> master
 .main {
 	background-image: url("../images/background.jpg");
 	background-repeat: no-repeat;
@@ -17,6 +20,9 @@ html {
 	width: 100%;
 	position: relative;
 }
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 h1, h2, h3, h4, p, a {
 	color: rgba(255,255,255,.8);
@@ -31,6 +37,7 @@ h3 {
 p {
 	letter-spacing: .03em;
 	font-weight: 200;
+<<<<<<< HEAD
 <<<<<<< HEAD
 	margin: 15px 15px 0 15px;
 }
@@ -51,6 +58,9 @@ p {
 =======
 	margin: 15px;
 >>>>>>> master
+=======
+	margin: 15px;
+>>>>>>> master
 }
 .nav img {
 	height: 2em;
@@ -64,6 +74,7 @@ p {
  	width: 10em;
  	opacity: .8;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 .header-logo {
 	margin: 10px;
@@ -245,9 +256,15 @@ footer button:hover {
 
 
 =======
+=======
+>>>>>>> master
 .projects ul li {
 	margin: 0;
 	padding: 0;
 	max-width: 100%;
+<<<<<<< HEAD
+}
+>>>>>>> master
+=======
 }
 >>>>>>> master
