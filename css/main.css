@@ -14,10 +14,15 @@ html {
 	background-size: cover;
 	height: 100%;
 	min-height: 850px;
-	width: 100%;
 	position: relative;
+	text-align: center;
+	padding-top: 20rem;
 }
 
+.content {
+	margin: 0 auto;
+	width: 70%;
+}
 
 /*-----TYPE-----*/
 
@@ -30,7 +35,6 @@ h3 {
 	margin: 0 0 10px 0;
 	letter-spacing: .06em;
 	font-weight: 400;
-	margin: 15px;
 }
 p {
 	letter-spacing: .03em;
@@ -48,6 +52,7 @@ p {
 	min-height: 850px;
 	width: 100%;
 	position: relative;
+	text-align: center
 }
 .nav {
 	margin: 20px 0 0 0;
