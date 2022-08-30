@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.77129e1f.css",
-    "main.js": "/static/js/main.cfb576f2.js",
-    "static/media/bio.jpg": "/static/media/bio.f0c74cccc255e4cc0f46.jpg",
-    "static/media/nct_logo_white.svg": "/static/media/nct_logo_white.92716cadeb313a6d9e2b16ceea338e09.svg",
-    "index.html": "/index.html",
-    "main.77129e1f.css.map": "/static/css/main.77129e1f.css.map",
-    "main.cfb576f2.js.map": "/static/js/main.cfb576f2.js.map"
+    "main.css": "/ncturner.com/static/css/main.77129e1f.css",
+    "main.js": "/ncturner.com/static/js/main.eb66aa86.js",
+    "static/media/bio.jpg": "/ncturner.com/static/media/bio.f0c74cccc255e4cc0f46.jpg",
+    "static/media/nct_logo_white.svg": "/ncturner.com/static/media/nct_logo_white.92716cadeb313a6d9e2b16ceea338e09.svg",
+    "index.html": "/ncturner.com/index.html",
+    "main.77129e1f.css.map": "/ncturner.com/static/css/main.77129e1f.css.map",
+    "main.eb66aa86.js.map": "/ncturner.com/static/js/main.eb66aa86.js.map"
   },
   "entrypoints": [
     "static/css/main.77129e1f.css",
-    "static/js/main.cfb576f2.js"
+    "static/js/main.eb66aa86.js"
   ]
 }
